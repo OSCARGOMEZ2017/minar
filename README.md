@@ -1,0 +1,2 @@
+# minar
+minar bitcoin
